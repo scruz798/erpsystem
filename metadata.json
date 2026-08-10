@@ -1,0 +1,6 @@
+{
+  "name": "HZHY Enterprise ERP",
+  "description": "Professional Enterprise Resource Planning system for HZHY Enterprise featuring Sales, Finance, Store, Purchasing, and Admin departments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
